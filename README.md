@@ -30,7 +30,7 @@ The repository includes the following files:
 
 ## 🚀 **Live Demo**  
 
-Experience the gallery in action! [Live Demo](#) (Replace this with the link to your hosted project).  
+![Uploading image.png…]()
 
 ---
 
