@@ -1,4 +1,4 @@
-# 🖼️ Responsive Image Gallery  
+![image](https://github.com/user-attachments/assets/68b9d6f9-a31b-4834-be8f-d76e2ad03fa8)# 🖼️ Responsive Image Gallery  
 
 Welcome to the **Responsive Image Gallery** project! 🌟 This repository contains a beautifully designed and fully responsive image gallery, perfect for showcasing your favorite images or projects in style. 📸  
 
