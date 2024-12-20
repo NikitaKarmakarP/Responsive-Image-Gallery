@@ -30,7 +30,7 @@ The repository includes the following files:
 
 ## 🚀 **Live Demo**  
 
-![Uploading image.png…]()
+https://nikitakarmakarp.github.io/Responsive-Image-Gallery/
 
 ---
 
