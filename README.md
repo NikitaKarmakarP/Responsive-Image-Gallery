@@ -4,6 +4,8 @@
 
 Welcome to the **Responsive Image Gallery** project! 🌟 This repository contains a beautifully designed and fully responsive image gallery, perfect for showcasing your favorite images or projects in style. 📸  
 
+---
+
 ## 🌟 **Features**  
 
 ✔️ Fully responsive design, compatible with all screen sizes.  
@@ -11,6 +13,8 @@ Welcome to the **Responsive Image Gallery** project! 🌟 This repository contai
 ✔️ High-quality images included for demonstration purposes.  
 ✔️ Lightweight and fast-loading.  
 ✔️ Easy to customize and integrate into other projects.  
+
+---
 
 ## 📂 **Project Structure**  
 
@@ -50,9 +54,13 @@ https://nikitakarmakarp.github.io/Responsive-Image-Gallery/
 2. Open index.html in any modern web browser.
 3. Customize the gallery.css file to personalize the gallery’s appearance.
 
+---
+
 ## 📸 Gallery Preview
 ✨ A quick glimpse of the gallery:
 (Add a preview image here)
+
+---
 
 ## 🤝 Contributions
 🎉 Contributions are welcome! Follow these steps to contribute:
@@ -63,14 +71,20 @@ https://nikitakarmakarp.github.io/Responsive-Image-Gallery/
 **- Commit and push your changes.**
 **- Open a pull request for review.**
 
+---
+
 ## 🌐 Stay Connected
 Feel free to connect and share feedback:
 
 **GitHub: NikitaKarmakarP**
 **LinkedIn: https://www.linkedin.com/in/nikita-karmakar-31336a270/**
 
+---
+
 ## 📄 License
 This project is licensed under the MIT License. Feel free to use and modify the code for your personal or professional projects.
+
+---
 
 ## 🌟 Created with ❤️ by Nikita Karmakar
 
